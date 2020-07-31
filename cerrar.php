@@ -5,4 +5,5 @@ $_SESSION = array();
 
 header('Location: login.php');
 
+//Hola mundo
 ?>
